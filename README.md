@@ -20,8 +20,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BNTiyan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BNTiyan&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BNTiyan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=BNTiyan&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BNTiyan&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BNTiyan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
