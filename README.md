@@ -5,6 +5,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavana-nare-sse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ieeexplore.ieee.org/document/11127674"><img src="https://img.shields.io/badge/IEEE_Publication-Computational_Trust-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" /></a>
+  <a href="https://bhavana-portfolio-agent.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-Agentic_Chatbot-a855f7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://youtube-auto-mocha.vercel.app"><img src="https://img.shields.io/badge/Live_App-YouTube_Auto-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Auto" /></a>
+  <img src="https://img.shields.io/badge/Vercel_Projects-4_Live_Apps-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Projects" />
   <img src="https://komarev.com/ghpvc/?username=BNTiyan&label=Profile+Views&color=a855f7&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/BNTiyan?label=Followers&style=flat-square&color=a855f7" alt="Followers" />
 </p>
@@ -18,9 +21,30 @@
 - ☁️ Cloud & AI Infrastructure: **AWS** (Bedrock, SageMaker, Lambda, DynamoDB) & **Google Vertex AI**.
 - 📄 Published Author: [Computational Trust Framework (IEEE)](https://ieeexplore.ieee.org/document/11127674).
 - 💡 10+ years of software engineering & AI systems experience across ADP, Rivian Automotive, Fannie Mae, Robert Bosch, and Continental.
-- 🌐 Explore my live interactive portfolio agent: [`bhavana-portfolio-agent`](https://github.com/BNTiyan/bhavana-portfolio-agent)
+- 🌐 Live Websites & Applications:
+  - 🤖 **[bhavana-portfolio-agent.vercel.app](https://bhavana-portfolio-agent.vercel.app)** — Interactive AI Resume & Portfolio Agent
+  - 🎬 **[youtube-auto-mocha.vercel.app](https://youtube-auto-mocha.vercel.app)** — Autonomous YouTube Generation & Request Portal
+  - ⚡ **[freellmapi.co](https://freellmapi.co)** — Multi-Provider LLM Gateway & Smart Router
+  - 💼 **[job-finder-phi-three.vercel.app](https://job-finder-phi-three.vercel.app)** — Automated Job Matching & Pipeline Tracker
+  - 🛠️ **[build-profile-phi.vercel.app](https://build-profile-phi.vercel.app)** — Dynamic Career Profile Generator
 - 📫 Reach me on LinkedIn: [bhavana-nare-sse](https://www.linkedin.com/in/bhavana-nare-sse/) | GitHub: [@BNTiyan](https://github.com/BNTiyan)
 - 🟢 **Open for collaboration & technical discussions!**
+
+---
+
+## 🔺 Deployed Vercel Projects & Live Web Apps
+
+<p align="center">
+
+| # | Project Name | Vercel Live URL | GitHub Repository | Framework / Tech Stack | Status |
+|:---:|:---|:---:|:---:|:---|:---:|
+| 1 | 🤖 **Bhavana Portfolio Agent** | [bhavana-portfolio-agent.vercel.app ↗](https://bhavana-portfolio-agent.vercel.app) | [`bhavana-portfolio-agent`](https://github.com/BNTiyan/bhavana-portfolio-agent) | Next.js 16 (App Router) · Gemini AI · Tailwind CSS v4 · Framer Motion | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
+| 2 | 🎬 **YouTube Auto Portal** | [youtube-auto-mocha.vercel.app ↗](https://youtube-auto-mocha.vercel.app) | [`youtube_auto`](https://github.com/BNTiyan/youtube_auto) | Vercel Serverless Function · GitHub Actions · Gemini AI · FFmpeg | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
+| 3 | 💼 **Job Finder Platform** | [job-finder-phi-three.vercel.app ↗](https://job-finder-phi-three.vercel.app) | [`job_finder`](https://github.com/BNTiyan/job_finder) | TypeScript · Next.js · Automated Scraping & Filtering | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
+| 4 | 🛠️ **Build Profile** | [build-profile-phi.vercel.app ↗](https://build-profile-phi.vercel.app) | [`build_profile`](https://github.com/BNTiyan/build_profile) | Modern Web · Interactive Profile Builder | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
+| 5 | ⚡ **FreeLLMAPI Gateway** | [freellmapi.co ↗](https://freellmapi.co) | [`freellmapi`](https://github.com/BNTiyan/freellmapi) | Cloudflare / Edge · Multi-LLM Smart Router (34 providers, 635+ endpoints) | ![Live](https://img.shields.io/badge/Live-Gateway-10b981?style=flat-square) |
+
+</p>
 
 ---
 
@@ -37,9 +61,9 @@
 
 <p align="center">
 
-| 📁 Public Repos | 🧠 Focus Areas | 💼 Production Experience | 📚 IEEE Publications |
-|:---:|:---:|:---:|:---:|
-| **34** | **Agentic AI & RAG** | **10+ Years** | **1 Published Paper** |
+| 📁 Public Repos | 🌐 Live Web Apps | 🧠 Focus Areas | 💼 Production Experience | 📚 IEEE Publications |
+|:---:|:---:|:---:|:---:|:---:|
+| **35+** | **5 Deployed Sites** | **Agentic AI & RAG** | **10+ Years** | **1 Published Paper** |
 
 </p>
 
@@ -51,7 +75,22 @@
 
 ## 🚀 Featured Projects
 
-### 🌟 [`bhavana-portfolio-agent`](https://github.com/BNTiyan/bhavana-portfolio-agent)
+### 🎬 [`youtube_auto`](https://github.com/BNTiyan/youtube_auto) · [Live Portal ↗](https://youtube-auto-mocha.vercel.app)
+> 🤖 **Autonomous Multi-Channel Video Production & Publishing Pipeline**
+>
+> End-to-end automated content engine that leverages **Google Gemini AI**, **FFmpeg dynamic animations**, and **YouTube Data API v3** to script, render, and upload educational videos daily across multiple YouTube channels on automated GitHub Actions schedules.
+
+```
+Topic / Request ─► Gemini AI Scripting ─► FFmpeg Dynamic Slides & Voiceover ─► YouTube Data API v3 ─► Multi-Channel Release
+```
+
+- **Live Request Web App:** [youtube-auto-mocha.vercel.app](https://youtube-auto-mocha.vercel.app) — Vercel-deployed serverless interface allowing users to submit topics and trigger GitHub Actions workflows securely.
+- **Multi-Niche Production:** Generates animated explainer videos for Kids Education and Tech Learning (AI, LLMs, RAG, Databases, and MCP).
+- **Zero-Manual CI/CD Scheduling:** Automated daily generation, rendering, and upload pipelines managed through GitHub Actions cron workflows.
+
+---
+
+### 🌟 [`bhavana-portfolio-agent`](https://github.com/BNTiyan/bhavana-portfolio-agent) · [Live Site ↗](https://bhavana-portfolio-agent.vercel.app)
 > 🤖 **Next.js 16 · Google Gemini API · Tailwind CSS v4 · Framer Motion**
 >
 > A cutting-edge developer portfolio featuring an interactive, context-grounded AI resume chatbot, animated impact metrics, and project deep-dive architecture diagrams.
@@ -62,7 +101,7 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 
 ---
 
-### ⚡ [`freellmapi`](https://github.com/BNTiyan/freellmapi)
+### ⚡ [`freellmapi`](https://github.com/BNTiyan/freellmapi) · [Gateway ↗](https://freellmapi.co)
 > 🌐 **High-Capacity Multi-Provider LLM Gateway & Router**
 >
 > Unified OpenAI-compatible `/v1` endpoint integrating **34 free LLM providers** and **635+ free model endpoints**. Features smart routing, automatic failover, and encrypted key management for large-scale experimentation.
@@ -76,6 +115,13 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 
 ---
 
+### 💼 [`job_finder`](https://github.com/BNTiyan/job_finder) · [Live App ↗](https://job-finder-phi-three.vercel.app)
+> 🔍 **Automated Job Search & Matching Engine · TypeScript & Next.js**
+>
+> Automated engineering role discovery platform deployed on Vercel, designed to scrape, filter, and track technical opportunities matching specific skill requirements.
+
+---
+
 ## 🧠 Mastery Matrix
 
 ### ⚡ Architecture & Agentic Systems
@@ -84,6 +130,7 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 | Agentic Workflows & Multi-Agent Orchestration | `████████████████████████░` 95% |
 | Production RAG & Vector Search (pgvector) | `████████████████████████░` 94% |
 | LLM Guardrails & Schema Validation (Pydantic) | `███████████████████████░░` 92% |
+| Autonomous Media & Video Generation Pipelines | `███████████████████████░░` 93% |
 | Event-Driven Cloud Microservices (AWS / GCP) | `███████████████████████░░` 90% |
 
 ### 🔷 Frameworks & Core Tools
@@ -91,6 +138,7 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 |---|---|
 | FastAPI / Python Backend | `█████████████████████████` 96% |
 | Next.js / React (TypeScript) | `████████████████████████░` 92% |
+| FFmpeg / Media Automation | `████████████████████████░` 93% |
 | PyTorch / MLOps Pipelines | `███████████████████████░░` 90% |
 | Selenium / Playwright Automation | `█████████████████████████` 95% |
 
@@ -98,7 +146,7 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 | Platform | Proficiency |
 |---|---|
 | AWS (Bedrock, SageMaker, Lambda, S3, DynamoDB) | `████████████████████████░` 94% |
-| Google Vertex AI & Cloud Platform | `███████████████████████░░` 90% |
+| Google Vertex AI & YouTube Data API | `███████████████████████░░` 92% |
 | Databricks & Feature Engineering | `██████████████████████░░░` 88% |
 | Docker, Kubernetes & Terraform | `█████████████████████░░░░` 85% |
 
@@ -142,12 +190,14 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Web & Frameworks**
+**Web, Media & Frameworks**
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube_API_v3-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
@@ -155,6 +205,7 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -163,5 +214,5 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 ---
 
 <p align="center">
-  <i>⭐ Feel free to explore my repositories, open issues, or reach out to collaborate on AI and agentic systems!</i>
+  <i>⭐ Feel free to explore my repositories and live web apps, open issues, or reach out to collaborate on AI and agentic systems!</i>
 </p>
