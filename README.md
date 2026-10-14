@@ -3,13 +3,14 @@
 </h1>
 
 <p align="center">
+  <a href="https://github.com/BNTiyan"><img src="https://img.shields.io/badge/Primary_GitHub-@BNTiyan-a855f7?style=flat-square&logo=github&logoColor=white" alt="Primary GitHub" /></a>
+  <a href="https://github.com/tiyanshjarvis"><img src="https://img.shields.io/badge/Projects_GitHub-@tiyanshjarvis-2088FF?style=flat-square&logo=github&logoColor=white" alt="Secondary GitHub" /></a>
   <a href="https://www.linkedin.com/in/bhavana-nare-sse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ieeexplore.ieee.org/document/11127674"><img src="https://img.shields.io/badge/IEEE_Publication-Computational_Trust-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE" /></a>
   <a href="https://bhavana-portfolio-agent.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-Agentic_Chatbot-a855f7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://youtube-auto-mocha.vercel.app"><img src="https://img.shields.io/badge/Live_App-YouTube_Auto-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Auto" /></a>
   <img src="https://img.shields.io/badge/Vercel_Projects-4_Live_Apps-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Projects" />
   <img src="https://komarev.com/ghpvc/?username=BNTiyan&label=Profile+Views&color=a855f7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/BNTiyan?label=Followers&style=flat-square&color=a855f7" alt="Followers" />
 </p>
 
 ---
@@ -27,7 +28,7 @@
   - ⚡ **[freellmapi.co](https://freellmapi.co)** — Multi-Provider LLM Gateway & Smart Router
   - 💼 **[job-finder-phi-three.vercel.app](https://job-finder-phi-three.vercel.app)** — Automated Job Matching & Pipeline Tracker
   - 🛠️ **[build-profile-phi.vercel.app](https://build-profile-phi.vercel.app)** — Dynamic Career Profile Generator
-- 📫 Reach me on LinkedIn: [bhavana-nare-sse](https://www.linkedin.com/in/bhavana-nare-sse/) | GitHub: [@BNTiyan](https://github.com/BNTiyan)
+- 📫 GitHub Profiles: [@BNTiyan](https://github.com/BNTiyan) (Primary / Open Source) & [@tiyanshjarvis](https://github.com/tiyanshjarvis) (Projects & Tools) | LinkedIn: [bhavana-nare-sse](https://www.linkedin.com/in/bhavana-nare-sse/)
 - 🟢 **Open for collaboration & technical discussions!**
 
 ---
@@ -40,7 +41,7 @@
 |:---:|:---|:---:|:---:|:---|:---:|
 | 1 | 🤖 **Bhavana Portfolio Agent** | [bhavana-portfolio-agent.vercel.app ↗](https://bhavana-portfolio-agent.vercel.app) | [`bhavana-portfolio-agent`](https://github.com/BNTiyan/bhavana-portfolio-agent) | Next.js 16 (App Router) · Gemini AI · Tailwind CSS v4 · Framer Motion | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
 | 2 | 🎬 **YouTube Auto Portal** | [youtube-auto-mocha.vercel.app ↗](https://youtube-auto-mocha.vercel.app) | [`youtube_auto`](https://github.com/BNTiyan/youtube_auto) | Vercel Serverless Function · GitHub Actions · Gemini AI · FFmpeg | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
-| 3 | 💼 **Job Finder Platform** | [job-finder-phi-three.vercel.app ↗](https://job-finder-phi-three.vercel.app) | [`job_finder`](https://github.com/BNTiyan/job_finder) | TypeScript · Next.js · Automated Scraping & Filtering | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
+| 3 | 💼 **Job Finder Platform** | [job-finder-phi-three.vercel.app ↗](https://job-finder-phi-three.vercel.app) | [`job_finder`](https://github.com/BNTiyan/job_finder) | TypeScript · Next.js · Automated Scraping & Matching | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
 | 4 | 🛠️ **Build Profile** | [build-profile-phi.vercel.app ↗](https://build-profile-phi.vercel.app) | [`build_profile`](https://github.com/BNTiyan/build_profile) | Modern Web · Interactive Profile Builder | ![Production](https://img.shields.io/badge/Live-Production-10b981?style=flat-square) |
 | 5 | ⚡ **FreeLLMAPI Gateway** | [freellmapi.co ↗](https://freellmapi.co) | [`freellmapi`](https://github.com/BNTiyan/freellmapi) | Cloudflare / Edge · Multi-LLM Smart Router (34 providers, 635+ endpoints) | ![Live](https://img.shields.io/badge/Live-Gateway-10b981?style=flat-square) |
 
@@ -48,27 +49,36 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 Dual GitHub Accounts & Unified Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BNTiyan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=BNTiyan&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BNTiyan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=a855f7" width="49%" alt="BNTiyan GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiyanshjarvis&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=2088FF" width="49%" alt="tiyanshjarvis GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BNTiyan&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BNTiyan&theme=tokyo-night&hide_border=true&area=true" width="49%" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🗂️ Core Metrics
+## 🗂️ Unified Ecosystem Metrics
 
 <p align="center">
 
-| 📁 Public Repos | 🌐 Live Web Apps | 🧠 Focus Areas | 💼 Production Experience | 📚 IEEE Publications |
-|:---:|:---:|:---:|:---:|:---:|
-| **35+** | **5 Deployed Sites** | **Agentic AI & RAG** | **10+ Years** | **1 Published Paper** |
+| Metric | Primary Account ([@BNTiyan](https://github.com/BNTiyan)) | Projects Account ([@tiyanshjarvis](https://github.com/tiyanshjarvis)) | Combined Total Impact |
+|:---|:---:|:---:|:---:|
+| 📁 **Repositories** | 35+ Public Repositories | Workspace & Tooling Repos | **35+ Active Repos** |
+| 🌐 **Live Deployed Web Apps** | 5 Deployed Systems | Production Pipelines | **5+ Live Web Applications** |
+| 🤖 **Agentic & AI Architecture** | Multi-Agent Orchestration, RAG (`pgvector`), Gemini API | Automation & CI/CD Pipelines | **Enterprise AI & LLMOps** |
+| 💼 **Engineering Experience** | ADP, Rivian, Fannie Mae, Bosch, Continental | Enterprise & Open Source Development | **10+ Years Full SDLC** |
+| 📚 **Research Publications** | IEEE *Computational Trust Framework* | Technical Implementations | **1 Published Paper** |
 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_Senior_AI_Engineer-Agentic_Systems_%26_LLMOps-a855f7?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/⚡_Unified_Ecosystem-BNTiyan_%2B_tiyanshjarvis-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 ---
@@ -156,14 +166,6 @@ Next.js 16 (App Router) ─► Google Gemini API (Resume Context) ─► Interac
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BNTiyan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BNTiyan&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
