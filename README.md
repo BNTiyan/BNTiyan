@@ -49,16 +49,15 @@
 
 ---
 
-## 📊 Dual GitHub Accounts & Unified Stats
+## 📊 Unified GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BNTiyan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=a855f7" width="49%" alt="BNTiyan GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tiyanshjarvis&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=2088FF" width="49%" alt="tiyanshjarvis GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BNTiyan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="49%" alt="Unified GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=BNTiyan&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BNTiyan&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BNTiyan&theme=tokyo-night&hide_border=true&area=true" width="49%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BNTiyan&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
